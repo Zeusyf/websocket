@@ -1,3 +1,3 @@
-module github.com/omegasuite/websocket
+module github.com/zeusyf/websocket
 
 go 1.22.1

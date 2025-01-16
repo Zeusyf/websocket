@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/omegasuite/websocket"
+	"github.com/zeusyf/websocket"
 	"log"
 	"net/http"
 	"time"
